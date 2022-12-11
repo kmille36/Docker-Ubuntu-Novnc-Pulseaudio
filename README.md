@@ -1,6 +1,8 @@
 # Docker-Ubuntu-Novnc-Pulseaudio
 Concept Of Ubuntu VNC with noVNC + Pulse Audio Server Running.  
 
+![image](https://user-images.githubusercontent.com/58414694/206900314-e30d5f8b-ef59-4b86-9c38-cf8fb7045319.png)
+
 Paste this in Google Cloud Shell Terminal, then preview on port 8080 for noVNC, User/Pass: password: password
 
 - Ubuntu 20.04:
